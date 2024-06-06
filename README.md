@@ -1,5 +1,3 @@
-English: ![en](https://user-images.githubusercontent.com/69988594/111467715-d155a700-8735-11eb-8164-438335e50276.png)
-
 # For Nikola Tesla
 Specially designed for Nikola Tesla. Nikola Tesla's words are available.
  

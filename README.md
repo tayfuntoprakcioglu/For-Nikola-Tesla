@@ -24,28 +24,3 @@ document.write("Add word title" + "\"<i>" + tt[index] + "</i>\"\n word ending te
 ```javascript
 tt[0] = "words - author";
 ```
-
-# For Nikola Tesla
-Nikola Tesla için özel olarak tasarlanmıştır. Nikola Tesla'nın sözleri mevcuttur. 
- 
-# Basit kelime ekle
-Javascript ile rastgele kelimeler ekleyerek farklı projelerde kullanabilirsiniz.
-
-```javascript
-tt[0] = "kelimeler";
-tt[1] = "kelimeler";
-tt[2] = "kelimeler";
-.
-.
-.
-```
-
-Sözcük başlangıcı ve bitişi için sabit metin ayarlayın.
-```javascript
-document.write("Kelime başlığı ekleyin" + "\"<i>" + tt[index] + "</i>\"\n kelime biten metin");
-```
-
-Yazar alıntı ekle  (Bu şekilde kullanacaksanız. Yukarıdaki ayarı atlayın.)
-```javascript
-tt[0] = "kelimeler - yazar";
-```
